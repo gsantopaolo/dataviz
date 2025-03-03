@@ -1,0 +1,5 @@
+tensorflow~=2.18.0
+tensorflow-datasets==4.9.7
+numpy~=2.0.2
+tensorboard~=2.18.0
+wandb~=0.19.7
