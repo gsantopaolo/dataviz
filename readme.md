@@ -19,7 +19,7 @@ This repository contains the source code for a couple of [my blog posts](https:/
 1. **Clone the repository:**
 ```bash
    git clone git@github.com:gsantopaolo/dataviz.git
-   cd your-repo-name
+   cd dataviz
 ```
 
 2. **Using Weights and Biases :**
