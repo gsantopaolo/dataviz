@@ -7,7 +7,7 @@ This repository contains the source code for a couple of [my blog posts](https:/
 
 - **[Data Visualization with Weights & Biases: A Powerful Tool for Tracking and Organizing ML Experiments](https://genmind.ch/data-visualization-with-weights-biases-a-powerful-tool-for-tracking-and-organizing-ml-experiments/)**  
   In this post, I explain how to leverage Weights & Biases for tracking machine learning experiments. The code in this repository, tensorboard_mnist.py, shows you how powerful data visualization is.
-- 
+
 - **[Adding TensorBoard to Your Keras Workflow](https://genmind.ch/adding-tensorboard-to-your-keras-workflow/)**  
   In this post, I explain how add TensorBoard to a Keras model. File in this repo train_mnist_tensorboard.py.
 
