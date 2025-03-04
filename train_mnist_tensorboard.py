@@ -108,7 +108,7 @@ def main():
     model = create_model()
 
     # Train the model with the prepared datasets.
-    train_model(model, ds_train, ds_test, 20)
+    train_model(model, ds_train, ds_test, 12)
 
     # Save the trained model
     model.save("model.keras")  # Saves in Keras format
